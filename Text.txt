@@ -1,1 +1,2 @@
-Hi Just making some changes to learn git
+Hi added 
+Just making some changes to learn git
